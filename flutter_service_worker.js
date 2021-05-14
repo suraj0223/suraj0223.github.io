@@ -3,11 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-<<<<<<< HEAD
   "assets/AssetManifest.json": "052a68689b47f6e205f2fd9e88b00a77",
-=======
-  "assets/AssetManifest.json": "15f5a4592739f4fde7e36685111d6154",
->>>>>>> 004bc41dc86ed8b4e02c14ab3d125555b02e705b
 "assets/assets/chat.png": "f6ba7685488d4b8639b79008deb5d26a",
 "assets/assets/chat1.png": "6685892bdfdb7be2e3ff7862a126eb32",
 "assets/assets/chat2.png": "89981ffe39860eff1ee6ea8bd921517e",
@@ -21,10 +17,7 @@ const RESOURCES = {
 "assets/assets/lappy.png": "a29e84b9786d22b4dc23e29234c1fa19",
 "assets/assets/laptop.png": "fb49e3c0c36437239db5f8c114b03062",
 "assets/assets/learn.png": "0d8cc9359d206e769bc228c6130f4ccb",
-<<<<<<< HEAD
 "assets/assets/LeetCode.png": "ca674b5186b28e2b0edae538ee5388d0",
-=======
->>>>>>> 004bc41dc86ed8b4e02c14ab3d125555b02e705b
 "assets/assets/linkedin1.png": "6e154f80072e0f134105ec35599d74a6",
 "assets/assets/mail1.png": "76559521fed2b4713d104d4312104456",
 "assets/assets/mappin.png": "9cc090022ae31337336d2024160714b8",
@@ -60,15 +53,9 @@ const RESOURCES = {
 "favicon.png": "62d9124c621c930c4d2315c2d774bb76",
 "icons/Icon-192.png": "2607b4258251744df9bdbe3eada167a6",
 "icons/Icon-512.png": "564c1f2246ab56b0c6c347207dc58be4",
-<<<<<<< HEAD
 "index.html": "3aa65876e8bed9b05b11d6478aa7e1c5",
 "/": "3aa65876e8bed9b05b11d6478aa7e1c5",
 "main.dart.js": "7369faeb0829481c5173a05d261a1045",
-=======
-"index.html": "04a8b08ccf053670ffe3910d5d4b7594",
-"/": "04a8b08ccf053670ffe3910d5d4b7594",
-"main.dart.js": "26403b001f90aad5051c61e0d75545a3",
->>>>>>> 004bc41dc86ed8b4e02c14ab3d125555b02e705b
 "manifest.json": "5a2c0526f1fe73e6f211bc7a9d15c210",
 "version.json": "426313f2f3133c2f20415344c4a22df3"
 };
